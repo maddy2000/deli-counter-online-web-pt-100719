@@ -10,7 +10,7 @@ def line(katz_deli)
       
   end
 end
-
+puts deli
 end
 
 def take_a_number (katz_deli, name)
