@@ -6,10 +6,11 @@ def line(katz_deli)
   else 
     deli = "The line is currently: "
     katz_deli.each_with_index do |name, index|
-      puts "#{index}. #{name}."
+      deli += "#{index}. #{name}."
       
   end
 end
+
 end
 
 def take_a_number (katz_deli, name)
