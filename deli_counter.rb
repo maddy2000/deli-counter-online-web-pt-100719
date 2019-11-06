@@ -25,7 +25,7 @@ def now_serving(katz_deli)
     puts "There is nobody waiting to be served!"
   else
     name = katz_deli.shift
-    katz_deli.shift "Currently serving #{name}"
+    puts "currently serving #{name}"
    
  end
  end
