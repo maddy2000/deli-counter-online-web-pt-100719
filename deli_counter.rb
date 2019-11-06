@@ -15,5 +15,6 @@ end
 end
 
 def take_a_number (katz_deli, name)
-    katz_deli << "Ada"
+    katz_deli.push 
+    puts "Welcome #{name} "
 end
