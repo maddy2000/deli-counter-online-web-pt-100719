@@ -15,5 +15,5 @@ end
 end
 
 def take_a_number (katz_deli, name)
-    katz_deli.push "#{1}"
+    katz_deli.push "#{0}"
 end
