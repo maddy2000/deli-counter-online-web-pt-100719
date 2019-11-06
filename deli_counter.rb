@@ -14,6 +14,6 @@ end
 
 end
 
-def take_a_number (katz_deli, name)
+def take_a_number (katz_deli, "Ada")
     katz_deli.push "#{index}"
 end
