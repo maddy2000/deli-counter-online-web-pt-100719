@@ -15,8 +15,7 @@ end
 end
 
 def take_a_number (katz_deli, name)
-  counter = 0 
-  if counter 0
+    katz_deli.
   puts "Welcome, #{name}. You are number #{1} in line."
   
 end
