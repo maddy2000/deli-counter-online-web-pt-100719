@@ -9,8 +9,9 @@ def line(katz_deli)
       deli += "#{index}. #{name}."
       
   end
+  puts deli
 end
-puts deli
+
 end
 
 def take_a_number (katz_deli, name)
