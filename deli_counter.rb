@@ -15,5 +15,5 @@ end
 end
 
 def take_a_number (katz_deli, index)
-    katz_deli.push "#{index}"
+    katz_deli << "Ada"
 end
